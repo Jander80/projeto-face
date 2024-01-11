@@ -1,0 +1,34 @@
+/* PARTE DO COD REFERENTE AO CABECALHO */
+.div1 {
+      background-color: aqua;
+      display: flex; 
+      justify-content: center;
+}
+
+.button{
+    color:white;
+    background-color: green;
+
+
+.button {
+
+    display: flex;
+    justify-content: center;
+    width: 40vw;
+    height:50vh;
+    
+}
+
+}
+#header{
+    color:dodgerblue;
+    background-color:white;
+}
+
+.fildset{
+    background-color: ghostwhite;
+    width: 40vw;
+    height: 50vh;
+    margin-top: none;
+
+}
